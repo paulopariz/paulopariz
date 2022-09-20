@@ -1,15 +1,19 @@
-###  <h2>Hello World! 👋</h1>
 
+
+<h2 align="center">Hello World!
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+         width="30px">
+</h2>
 
 
 <div align="center"><br><br>
 <!-- Linkedin -->
   <a href="" target="_blank"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
+  <!-- gmail -->
+  <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=paulopariz01@gmail.com"><img height="25" title="paulopariz01@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:top margin:6px 4px"></a>
 <!-- instagram -->
   <a href="https://www.instagram.com/parizpaulo_/" target="_blank"><img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align:top margin:6px 4px"></a>
-<!-- gmail -->
-  <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=paulopariz01@gmail.com"><img height="25" title="paulopariz01@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:top margin:6px 4px"></a>
-<!-- dev.to -->
+<!-- twitter -->
   <a href="https://twitter.com/parizpaulo_"><img height="25" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="vertical-align:top margin:6px 4px"></a>
 </div><br>
  
