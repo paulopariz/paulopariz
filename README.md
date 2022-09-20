@@ -1,4 +1,4 @@
-###  👋 Hello World!
+###  👋 Hello World! 
 
 
 ##
@@ -35,6 +35,6 @@
   
   
 <div>
-    <img width="438px" src="https://art.pixilart.com/original/sr2d0890348202e.gif">
+    <img width="439px" src="https://art.pixilart.com/original/sr2d0890348202e.gif">
 </div>
   
