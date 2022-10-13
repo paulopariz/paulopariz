@@ -13,9 +13,7 @@
   <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=paulopariz01@gmail.com"><img height="25" title="paulopariz01@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:top margin:6px 4px"></a>
 <!-- instagram -->
   <a href="https://www.instagram.com/parizpaulo_/" target="_blank"><img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align:top margin:6px 4px"></a>
-<!-- twitter -->
-  <a href="https://twitter.com/parizpaulo_"><img height="25" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="vertical-align:top margin:6px 4px"></a>
-</div><br>
+
  
 
 
