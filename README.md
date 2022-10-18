@@ -8,11 +8,11 @@
 
 <div align="center"><br><br>
 <!-- Linkedin -->
-  <a href="" target="_blank"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
+  <a href="" target="_blank"><img height="56" src="https://img.icons8.com/fluency/48/000000/linkedin.png" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
   <!-- gmail -->
-  <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=paulopariz01@gmail.com"><img height="25" title="paulopariz01@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:top margin:6px 4px"></a>
+  <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=paulopariz01@gmail.com"><img height="60" title="paulopariz01@gmail.com" src="https://img.icons8.com/glyph-neue/64/FA5252/gmail-new.png" style="vertical-align:top margin:6px 4px"></a>
 <!-- instagram -->
-  <a href="https://www.instagram.com/parizpaulo_/" target="_blank"><img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align:top margin:6px 4px"></a>
+  <a href="https://www.instagram.com/parizpaulo_/" target="_blank"><img height="55" src="https://img.icons8.com/glyph-neue/64/7950F2/instagram-new.png" style="vertical-align:top margin:6px 4px"></a>
 
  
 
