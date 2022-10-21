@@ -18,8 +18,8 @@
 
  <h4>GitHub Statistics:</h4>
   <a href="https://github.com/paulopariz">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=paulopariz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopariz&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=paulopariz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopariz&layout=compact&langs_count=7&theme=transparent"/>
   
 
  
