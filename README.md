@@ -33,7 +33,7 @@
   <img align="center" title="bootstrap" src="https://img.shields.io/badge/Bootstrap-7531FA?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" title="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-39B0B7?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" title="git" src="https://img.shields.io/badge/GIT-EB4D1C?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" title="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" title="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
     
 
   
