@@ -13,6 +13,8 @@
   <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=paulopariz01@gmail.com"><img title="paulopariz01@gmail.com" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:top"></a>
 <!-- instagram -->
   <a href="https://www.instagram.com/parizpaulo_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align:top"></a>
+<!-- instagram -->
+ <a href="https://api.whatsapp.com/send?phone=5544999575376" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" style="vertical-align:top"></a>
   
 ##
 
@@ -30,11 +32,17 @@
   <img align="center" title="html 5"  src="https://img.shields.io/badge/HTML5-EE7418?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" title="css3" src="https://img.shields.io/badge/CSS3-2862EA?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" title="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" title="php" src="https://img.shields.io/badge/PHP-4D588E?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" title="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" title="bootstrap" src="https://img.shields.io/badge/Bootstrap-7531FA?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" title="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-39B0B7?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align="center" title="myslq" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" title="git" src="https://img.shields.io/badge/GIT-EB4D1C?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" title="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-    
+  
+  <br><br>
+  
+  <div align="center">
 
-  
-  
+![](https://komarev.com/ghpvc/?username=paulopariz&color=7531FA&style=flat-square)
+    
+   </div>
