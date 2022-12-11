@@ -8,7 +8,7 @@
 <div display: "flex"><br>
 <h4>Contact: </h4>
 <!-- Linkedin -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="vertical-align:top"></a> 
+  <a href="https://www.linkedin.com/in/paulopariz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="vertical-align:top"></a> 
   <!-- gmail -->
   <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=paulopariz01@gmail.com"><img title="paulopariz01@gmail.com" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:top"></a>
 <!-- instagram -->
