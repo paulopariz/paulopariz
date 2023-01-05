@@ -3,8 +3,10 @@
 <h2>Hello World!
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
          width="30px">
-
 </h2>
+
+Desenvolvedor Web em formação, tenho mais experiência com front-end e buscando aprimorar o back-end. Atualmente estou estudando VueJS, manuseio/estudo as seguintes tecnologias: JAVASCRIPT, PHP, LARAVEL, MYSQL, HTML, CSS, TAILWIND, BOOTSTRAP, GIT.
+
 <div display: "flex"><br>
 <h4>Contact: </h4>
 <!-- Linkedin -->
@@ -38,6 +40,7 @@
     
   <img title="css3" src="https://img.shields.io/badge/CSS3-2862EA?style=for-the-badge&logo=css3&logoColor=white"/>
     
+  <img title="sass" src="https://img.shields.io/badge/Sass-CA73D7?style=for-the-badge&logo=sass&logoColor=white" /> 
   
   <img title="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   
@@ -61,11 +64,5 @@
     
     
   </div>
-  
-  <br><br>
-  
-  <div align="center">
 
-![](https://komarev.com/ghpvc/?username=paulopariz&color=7531FA&style=flat-square)
-    
-   </div>
+  
