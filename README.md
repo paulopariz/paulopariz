@@ -21,6 +21,7 @@ Desenvolvedor Web em formação, tenho mais experiência com front-end e buscand
 ##
 
  <h4>GitHub Statistics:</h4>
+
   <a href="https://github.com/paulopariz">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=paulopariz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopariz&layout=compact&langs_count=7&theme=transparent"/>
@@ -30,39 +31,14 @@ Desenvolvedor Web em formação, tenho mais experiência com front-end e buscand
  <br>
  
  # 
-<h4>Skils:</h4>
+<h4 align="center">Skils:</h4>
   
-  <div style="display: flex">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,git,bootstrap,tailwind,sass" />
+  </a>
+</p>
     
-    
-  <img title="html 5"  src="https://img.shields.io/badge/HTML5-EE7418?style=for-the-badge&logo=html5&logoColor=white"/>
-  
-    
-  <img title="css3" src="https://img.shields.io/badge/CSS3-2862EA?style=for-the-badge&logo=css3&logoColor=white"/>
-    
-  <img title="sass" src="https://img.shields.io/badge/Sass-CA73D7?style=for-the-badge&logo=sass&logoColor=white" /> 
-  
-  <img title="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
-    
-  <img title="php" src="https://img.shields.io/badge/PHP-4D588E?style=for-the-badge&logo=php&logoColor=white"/>
-  
-    
-  <img title="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  
-    
-  <img title="bootstrap" src="https://img.shields.io/badge/Bootstrap-7531FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    
-  
-  <img title="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-39B0B7?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    
-  
-  <img title="myslq" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
-    
-  <img title="git" src="https://img.shields.io/badge/GIT-EB4D1C?style=for-the-badge&logo=git&logoColor=white"/>
-    
-    
-  </div>
+ 
 
   
