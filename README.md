@@ -18,6 +18,8 @@
 
 <div display: "flex" align="center"><br>
 <h3Contact: </h3
+<!--Portfólio -->
+ <a href="https://paulopariz.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=logoColor=7F3ACE" style="vertical-align:top"></a>
 <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/paulopariz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7F3ACE" target="_blank" style="vertical-align:top"></a> 
   <!-- gmail -->
