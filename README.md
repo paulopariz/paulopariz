@@ -5,13 +5,12 @@
          width="30px">
 </h1>
 
-## Desenvolvedor Web em formação
+## Desenvolvedor Front-End
 
 
 
-   📍 Atualmente estou estudando VueJS <br>
-    ✔️ Mais experiência com front-end e sempre busco aprimorar o back-end <br>
-    🛠️ Diferenciais: VueJS, Tailwind, Sass, Laravel
+   ⚡ Sou um desenvolvedor Front-End que programa há mais de 10 meses. Tenho experiência em projetos usando VueJS para a parte da interface e Laravel para a parte do servidor. Embora minha experiência seja mais voltada para o Front-End, estou constantemente buscando aprimorar minhas habilidades no Back-End.
+
     
 
  
