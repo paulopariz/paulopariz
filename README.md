@@ -9,7 +9,7 @@
 
 
 
-   ⚡ Sou um desenvolvedor Front-End que programa há mais de 10 meses. Tenho experiência em projetos usando VueJS para a parte da interface e Laravel para a parte do servidor. Embora minha experiência seja mais voltada para o Front-End, estou constantemente buscando aprimorar minhas habilidades no Back-End.
+   ⚡ Sou um desenvolvedor Front-End que programa há mais de 11 meses. Tenho experiência em projetos usando VueJS para a parte da interface e Laravel para a parte do servidor. Embora minha experiência seja mais voltada para o Front-End, estou constantemente buscando aprimorar minhas habilidades no Back-End.
 
     
 
