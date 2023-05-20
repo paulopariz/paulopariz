@@ -12,7 +12,6 @@
    ⚡ Sou um desenvolvedor Front-End que programa há mais de 11 meses. Tenho experiência em projetos usando VueJS para a parte da interface e Laravel para a parte do servidor. Embora minha experiência seja mais voltada para o Front-End, estou constantemente buscando aprimorar minhas habilidades no Back-End.
 
     
-
  
 
 <div display: "flex" align="center"><br>
@@ -36,8 +35,8 @@
 
   <h3>GitHub Statistics:</h3>
   <a href="https://github.com/paulopariz">
-  <img height="180em" width="430px" src="https://github-readme-stats.vercel.app/api?username=paulopariz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="410px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopariz&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" width="430px" src="https://github-readme-stats.vercel.app/api?username=paulopariz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopariz&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" width="410px"/>
   
  </div>
 
