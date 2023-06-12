@@ -33,7 +33,7 @@
   <h3>GitHub Statistics:</h3>
   <a href="https://github.com/paulopariz">
     
-  <img height="180em" src="https://streak-stats.demolab.com?user=paulopariz&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"/>
+  <img height="180em" width="430px" src="https://streak-stats.demolab.com?user=paulopariz&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopariz&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" width="410px"/>
   
  </div>
