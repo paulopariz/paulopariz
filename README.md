@@ -28,7 +28,7 @@
 
  
  
- <div align="" >
+ <div align="center" >
 
   <h3>GitHub Statistics:</h3>
   <a href="https://github.com/paulopariz">
