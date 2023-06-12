@@ -5,12 +5,9 @@
          width="30px">
 </h1>
 
-## Desenvolvedor Front-End
+## Desenvolvedor Front-End | VueJS
 
-
-
-   ⚡ Sou um desenvolvedor Front-End que programa há mais de 11 meses. Tenho experiência em projetos usando VueJS para a parte da interface e Laravel para a parte do servidor. Embora minha experiência seja mais voltada para o Front-End, estou constantemente buscando aprimorar minhas habilidades no Back-End.
-
+   ⚡ Sou desenvolvedor front-end com mais de 1 ano de experiência, e também possuo conhecimento em back-end. No entanto, meu foco principal é aprimorar a interface de aplicações. Minha ferramenta principal é o Vue.js e utilizo o Nuxt.js em conjunto com ela.
     
  
 
@@ -35,7 +32,8 @@
 
   <h3>GitHub Statistics:</h3>
   <a href="https://github.com/paulopariz">
-  <img height="180em" width="430px" src="https://github-readme-stats.vercel.app/api?username=paulopariz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+    
+  <img height="180em" src="https://streak-stats.demolab.com?user=paulopariz&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopariz&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" width="410px"/>
   
  </div>
