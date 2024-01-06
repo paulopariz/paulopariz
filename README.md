@@ -7,14 +7,12 @@
 
 ## Desenvolvedor Front-End | VueJS
 
-   ⚡ Sou desenvolvedor front-end com mais de 1 ano de experiência, e também possuo conhecimento em back-end. No entanto, meu foco principal é aprimorar a interface de aplicações. Minha ferramenta principal é o Vue.js e utilizo o Nuxt.js em conjunto com ela.
+
     
  
 
 <div display: "flex" align="center"><br>
 <h3Contact: </h3
-<!--Portfólio -->
- <a href="https://paulopariz.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=logoColor=7F3ACE" style="vertical-align:top"></a>
 <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/paulopariz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7F3ACE" target="_blank" style="vertical-align:top"></a> 
   <!-- gmail -->
@@ -47,7 +45,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,git,bootstrap,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,php,laravel,git,bootstrap,tailwind,sass" />
   </a>
 </p>
     
