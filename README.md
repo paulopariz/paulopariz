@@ -9,8 +9,7 @@
 - 🫡 **Hello**, me chamo Paulo! Sou desenvolvedor há mais de dois anos, trabalho na área e estudo constantemente.
 - 🎨 Sou desenvolvedor Front-End com foco em Vue.js e Nuxt.js.
 - 🚀 Atualmente, estou expandindo meus conhecimentos em Back-End com Node.js e NestJS.
-- 🛠️ Aplico Clean Code, Clean Architecture e princípios SOLID para garantir qualidade.
-- ✅ Sempre em evolução, aplicando e aprimorando Testes Unitários para código mais confiável.
+- 🛠️ Aprendendo mais sobre Testes, Clean Architecture e princípios SOLID.
 
 ## Conectar:
 <a href="mailto:paulopariz01@gmail.com" target="_blank">
